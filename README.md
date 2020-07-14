@@ -6,7 +6,7 @@
 ### Clone
 
 - Clone the repository using `git clone https://github.com/tosinibrahim96/User-Courses-API.git`
-- Create a `.env` file in the root folder and copy everything from .env-sample into it
+- Create a `.env` file in the root folder and copy everything from `.env-sample` into it
 - Fill the `.env` values with your Database details as required
 
 
